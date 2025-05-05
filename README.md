@@ -2,7 +2,7 @@
 
 ## Descrizione
 
-Questo repository contiene uno script Python (`scripts/airbnb_price_pipeline.py`) per l'analisi esplorativa, la pulizia e la predizione dei prezzi di affitto su Airbnb. Si parte da un dataset grezzo (`data/listings.csv`), si esegue:
+Questa repository contiene uno script Python (`scripts/airbnb_price_pipeline.py`) per l'analisi esplorativa, la pulizia e la predizione dei prezzi di affitto su Airbnb. Si parte da un dataset grezzo (`data/listings.csv`), si esegue:
 
 1. **Caricamento e pulizia dati** (rimozione di colonne non rilevanti, gestione di date e valori mancanti)
 2. **Esplorazione** (statistiche descrittive, visualizzazioni con Seaborn/Matplotlib)
