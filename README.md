@@ -64,28 +64,26 @@ folium (opzionale)
 
 1. Clona il repository:
 
-   ```bash
-   ```
+```
 
 git clone [https://github.com/JacobHess03/ML-AirBNB-price-prediction/tree/main](https://github.com/JacobHess03/ML-AirBNB-price-prediction/tree/main)
 cd airbnb-price-prediction
+```
 
-````
 2. Crea e attiva un ambiente virtuale:
-   ```bash
+  ```
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\\Scripts\\activate   # Windows
-````
+  ```
 
 3. Installa le dipendenze:
 
-   ```bash
-   ```
+```
 
 pip install -r requirements.txt
+```
 
-````
 
 ## Esecuzione dello script
 ```bash
